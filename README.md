@@ -50,4 +50,5 @@ Basic I2C transactions:
 
 Thank-you to the people at <http://wingware.com/> for their policy of **free licenses for non-commercial open source developers**.
 
-.. image:: http://wingware.com/images/wingware-logo-180x58.png
+![wingware-logo](http://wingware.com/images/wingware-logo-180x58.png)
+
